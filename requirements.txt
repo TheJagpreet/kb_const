@@ -1,4 +1,0 @@
-langgraph==1.0.6
-langchain-openai
-python-dotenv
-GitPython

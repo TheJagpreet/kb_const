@@ -1,4 +1,6 @@
 langgraph==1.0.6
-langchain-openai
-python-dotenv
-GitPython
+langchain-openai==1.1.7
+python-dotenv==1.2.1
+GitPython==3.1.46
+chromadb==1.4.1
+sentence-transformers==5.2.0

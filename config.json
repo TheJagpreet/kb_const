@@ -1,10 +1,14 @@
 [
     {
-        "url": "https://github.com/example/repo1",
-        "branch": "main"
+        "url": "https://github.com/TheJagpreet/kb_const.git",
+        "branch": "kb_1"
     },
     {
-        "url": "https://github.com/example/repo2",
-        "branch": "develop"
+        "url": "https://github.com/TheJagpreet/kb_const.git",
+        "branch": "kb_2"
+    },
+    {
+        "url": "https://github.com/TheJagpreet/kb_const.git",
+        "branch": "kb_3"
     }
 ]

@@ -101,5 +101,11 @@ dmypy.json
 # Downloaded data
 data/
 
+# Vector DB
+chroma_db/
+
 # Config file
 config.json
+
+# Generated constitutions
+constitution/
